@@ -5,6 +5,6 @@
 - 🤔 I’m always open to exciting remote based work opportunities.
 - 📫 Drop me an email: aslam.junaid786@hotmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like music, football and learning new things.
+- ⚡ Fun fact: I like music, ideas and learning new things.
 
 _**Junaid Aslam**_
