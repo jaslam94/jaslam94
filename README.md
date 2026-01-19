@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Junaid Aslam
 
-🔧 I'm a **Software Engineer** with over **6 years of experience**, specializing in building robust solutions with **.NET**.  
+🔧 I'm a **Software Engineer** with **7 years of experience**, specializing in building robust solutions with **.NET**.  
 🌐 I also enjoy crafting modern front-ends using **React (JS/TS)**. 
 🤖 Recently, I’ve been exploring the world of **AI Agents & Chatbots**. I started with no-code/low-code tools like **Botpress**, **MindStudio**, and **Voiceflow**, and have since moved on to exploring more advanced tools/frameworks including **Langchain**, **OpenAI SDK**, and **HuggingFace**.
 🏗️ I’m particularly interested in projects that involve **Domain-Driven Design (DDD)**, **Microservices**, and **Applied AI Engineering**.  
