@@ -1,9 +1,9 @@
 ## 👋 Hi there, I'm Junaid Aslam
 
-🔧 I'm a **Senior Software Engineer** with **7 years of experience**, specializing in **.NET**.  
-🌐 I also enjoy front-end development with **React (JS/TS)**. 
-🤖 Recently, I’ve been exploring the world of **AI Agents & Chatbots**. I started with no-code/low-code tools like **Botpress**, **MindStudio**, and **Voiceflow**, and have since moved on to exploring more advanced tools/frameworks including **Langchain**, **OpenAI SDK**, and **HuggingFace**.
-🏗️ I’m particularly interested in projects that involve **Domain-Driven Design (DDD)**, **Microservices**, and **AI Integration Engineering**.  
+<img width="1744" height="901" alt="ChatGPT Image Apr 29, 2026, 12_12_56 AM" src="https://github.com/user-attachments/assets/5a3a39bd-faf7-4b44-9b3c-f5d852e3eb3f" />
+
+
+I’m a Senior Software Engineer with 7 years of experience, specializing in .NET and building scalable, well-architected systems. I also work with React (JavaScript/TypeScript) to deliver complete end-to-end solutions. Recently, I’ve expanded into AI development, starting with no-code/low-code platforms like Botpress, MindStudio, and Voiceflow, and progressing into more advanced frameworks such as LangChain, OpenAI SDK, and Hugging Face. My core interests include Domain-Driven Design (DDD), microservices architecture, and AI integration engineering, with a focus on building robust, intelligent, and scalable applications. I also provide freelance services and have a strong track record of delivering high-quality solutions.
 
 ---
 
