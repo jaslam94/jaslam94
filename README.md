@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Junaid Aslam
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/505ae8b0-1bda-45bb-8191-29807e67d7d0" />
+<img width="1024" height="659" alt="image" src="https://github.com/user-attachments/assets/a4c045b1-3eb3-4fe6-9583-d27a94ed8a7c" />
 
 <br />
 <br />
