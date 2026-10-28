@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Junaid Aslam
 
-<img width="2400" height="1212" alt="technology_stack_hd_refined" src="https://github.com/user-attachments/assets/8683175a-a43f-43f9-a6a3-079dda209765" />
+<img width="1136" height="587" alt="technology_stack_logos_no_cards" src="https://github.com/user-attachments/assets/91b4b25b-0231-49b0-9f0d-8d598d855482" />
 
 <br />
 <br />
